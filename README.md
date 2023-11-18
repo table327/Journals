@@ -7,8 +7,8 @@
 | Applied Computer Systems            | 2012-2022  |  195  |  145MB  |
 | Computer and Information Science    | 2008-2023  |  928  |  610MB  |
 | Electronic Letters on Computer Vision and Image Analysis |  2002-2023  |  332  |  666MB  |
-| IAENG International Journal of Computer Science  |  2014-2023  |  1.57GB  |
-| International Journal of Advanced Computer Sciences and Applications  |  2010-2023  |  7.92GB  |
+| IAENG International Journal of Computer Science  |  2014-2023  |  813  |1.57GB  |
+| International Journal of Advanced Computer Sciences and Applications  |  2010-2023  |  10000+  |  7.92GB  |
 | International Journal of Artificial Intelligence & Applications (IJAIA)  |  2010-2022  |  442  |  303MB  |
 | International Journal of Computer Network and Information Security (IJCNIS)  |  2009-2023  |  112  |  70.3MB  |
 | International Journal of Computer Networks & Communications  |  2009-2023  |  877  |  613MB  |
