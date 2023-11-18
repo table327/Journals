@@ -1,7 +1,7 @@
 ## Lists of Journal v1.0
 
 | Journal Title   | Archives  |  Number of Articles   |  Size   |
-|:----:|-----------------------------------------------------------------------------------|
+|:----:|:----:|:----:|:----:|
 | Acta Electrotechnica et Informatica | 2010-2021  |  450  |  270MB  |
 | Ai Magazine                         | 2013-2022  |  333  |  679MB  |
 | Applied Computer Systems            | 2012-2022  |  195  |  145MB  |
