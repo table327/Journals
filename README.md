@@ -22,4 +22,5 @@
 | Machine Learning and Applications: An International Journal(MLAIJ)  |  2014-2022  |  53  |  40.9MB  |
 | Mathematical and Computer Modelling  | 2013  |  231  |  162MB  |
 | Mathematical Modelling and Ananysis  | 2020-2023  |  152  |  160MB  |
+| International Journal of Software Engineering & Applications (IJSEA)  | 2010-2022  |  373  |  187MB  |
 
