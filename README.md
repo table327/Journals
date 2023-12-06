@@ -23,4 +23,7 @@
 | Mathematical and Computer Modelling  | 2013  |  231  |  162MB  |
 | Mathematical Modelling and Ananysis  | 2020-2023  |  152  |  160MB  |
 | International Journal of Software Engineering & Applications (IJSEA)  | 2010-2022  |  373  |  187MB  |
+| International Journal on Cloud Computing: Services and Architecture(IJCCSA)  |  2011-2022  |  109  |  59.1MB  |
+| Electrical & Computer Engineering: An International Journal (ECIJ)  |  2011-2017  |  47  |  22.7MB  |
+| International Journal of Data Mining & Knowledge Management Process (IJDKP)  |  2011-2022  |  242  |  130MB  |
 
