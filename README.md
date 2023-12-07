@@ -26,4 +26,5 @@
 | International Journal on Cloud Computing: Services and Architecture(IJCCSA)  |  2011-2022  |  109  |  59.1MB  |
 | Electrical & Computer Engineering: An International Journal (ECIJ)  |  2011-2017  |  47  |  22.7MB  |
 | International Journal of Data Mining & Knowledge Management Process (IJDKP)  |  2011-2022  |  242  |  130MB  |
+| Human-centric Computing and Information Sciences  |  2011-2023  |  448  |  1.13GB  |
 
